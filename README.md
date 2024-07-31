@@ -56,7 +56,10 @@ This Flask web application provides a user-friendly interface for counting the n
 Here's a screenshot of the application:
 
 ![Screenshot](screenshot.png)
-
+For example:
+![Screenshot](screenshot1.png)
+Result can be seen as:
+![Screenshot](screenshot2.png)
 ## Contributing
 
 1. Fork the repository.
